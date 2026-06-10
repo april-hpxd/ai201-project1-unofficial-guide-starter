@@ -1,0 +1,95 @@
+NYC Guide for International Students
+Source: Compiled from r/f1visa, r/internationalstudents, NAFSA resources, NYU International Student Services, and Columbia's ISSO guides
+
+## Arriving in NYC as an International Student
+
+The first weeks are the most disorienting. Even students who have traveled extensively will find the pace and complexity of NYC overwhelming initially. This is normal. The adjustment period typically takes 2–3 months before the city starts to feel manageable.
+
+Priority checklist for your first week:
+1. Get your SSN appointment scheduled — you may not be eligible until after your first day of class; check with your international student advisor
+2. Open a bank account (see Banking section); you'll need your passport, I-20 or DS-2019, visa, and a school enrollment letter
+3. Get your campus ID and activate your student portal
+4. Report your arrival to your school's International Student Services Office (ISSO or ISS) — this is required for maintaining your visa status
+5. Register your address in SEVIS if you've moved from the address listed on your I-20
+
+## F-1 Visa Basics
+
+The F-1 visa is the most common student visa for international students in the US. Critical rules:
+- Full-time enrollment requirement: F-1 students must maintain full-time status each semester (usually 12 credits for undergrad, 9 for grad). Dropping below this requires DSO permission and proper documentation.
+- On-campus work: you may work up to 20 hours/week on campus while school is in session; no limit during official school breaks
+- Off-campus work: generally not allowed without specific authorization (CPT for internships, OPT after graduation, or an economic hardship exception)
+- Travel: keep your visa and I-20 valid before traveling abroad; expired visa stamp doesn't prevent re-entry if your I-20 is valid, but you should get your visa renewed at a US consulate abroad before it expires
+- Reporting obligation: you must update your school's ISSO with any address change within 10 days
+
+## CPT and OPT (Work Authorization)
+
+Curricular Practical Training (CPT) allows F-1 students to work off-campus if it's integral to the curriculum:
+- Must be authorized by your DSO (Designated School Official at your ISSO)
+- Requires a job offer before authorization
+- Can be full-time or part-time; 12+ months of full-time CPT may affect OPT eligibility
+- NYC is excellent for CPT internships in finance, tech, media, and healthcare
+
+Optional Practical Training (OPT) allows work in your field of study:
+- Pre-completion OPT: can be used before graduation
+- Post-completion OPT: 12 months of work authorization after graduation; STEM students may apply for a 24-month STEM extension (total 36 months)
+- Apply early: OPT applications should be filed 90+ days before your intended start date; USCIS processing times can be several months
+
+## Banking for International Students
+
+Opening a US bank account requires specific documents:
+- Passport (required)
+- US visa (required)
+- I-20 or DS-2019 (required)
+- School enrollment verification letter (often required; get from your registrar)
+- US phone number and address
+
+Banks that are relatively international-student-friendly:
+- Chase: has a branch near nearly every NYC campus; student account with student ID
+- HSBC: has strong international student account options given its global network
+- Charles Schwab: excellent if you travel internationally; no foreign transaction fees, reimburses all ATM fees worldwide
+- Capital One 360: online bank, easy setup, no monthly fees
+
+Note: Wise (formerly TransferWise) is the most cost-effective way to transfer money internationally; it uses the real mid-market exchange rate with low fees, unlike banks which embed fees in their exchange rate.
+
+## Tax Filing for International Students
+
+International students have different tax obligations than US students:
+- F-1 students are generally non-residents for tax purposes for the first 5 years
+- File Form 8843 every year you're in the US, even if you had no income
+- If you had US income: file Form 1040-NR (nonresident alien tax return)
+- Sprintax is the most commonly used software for international student tax filing; your school may provide a free or discounted Sprintax code
+- Do NOT use TurboTax or H&R Block for 1040-NR; they don't file nonresident returns correctly
+
+Important: tax treaties between the US and many countries may reduce or eliminate taxes on certain types of income. China, India, and South Korea have treaties affecting student income. Your ISSO or a tax specialist can advise.
+
+## Cultural Adjustment and Social Life
+
+International students sometimes struggle to build social connections in NYC. The city is large, fast-moving, and not always naturally community-oriented. Strategies that help:
+
+- Join cultural student organizations related to your country of origin: almost every nationality has a cultural student association at major NYC schools
+- Language exchange groups: Meetup.com has active language exchange groups where you can practice English while helping others practice your language
+- International student association events: your school's ISA (International Students Association) hosts social events specifically for international students
+- Tandem app: matches language learners for practice; a good way to meet both domestic students and other international students
+
+Homesickness is very common. Video calling family and friends is important. If you're experiencing significant depression or anxiety related to the adjustment, your campus counseling center is the appropriate first resource — counselors are typically experienced with international student issues.
+
+## Healthcare for International Students
+
+Most schools require international students to have health insurance, and most include it in the mandatory fees. If your school's insurance plan is mandatory, you'll pay for it automatically.
+
+Key differences for international students:
+- Bring documentation of any ongoing medications from your home country, including a letter from your doctor stating the medication name, dosage, and necessity; US pharmacies will need a US prescription
+- Mental health care at campus counseling centers is typically free and confidential; using it will not affect your visa status
+- NYC has large communities from virtually every country in the world, which often means access to culturally familiar medical care; your country's consulate sometimes maintains lists of doctors who speak your language
+
+## NYC Neighborhoods with Strong International Communities
+
+NYC is one of the most internationally diverse cities on earth:
+- Jackson Heights, Queens: Indian, Pakistani, Bangladeshi, Nepali, Colombian, Ecuadorian communities
+- Flushing, Queens: largest Chinese-speaking community outside of China; also Korean
+- Sunset Park, Brooklyn: Chinese and Mexican communities; the largest Fujianese community outside China
+- Astoria, Queens: Greek, Egyptian, Brazilian, South Asian communities
+- Brighton Beach, Brooklyn: Russian-speaking community
+- Inwood, Washington Heights (Manhattan): Dominican and broader Latin American community
+
+Visiting these neighborhoods for culturally familiar food and community is something many international students find grounding during their first year.

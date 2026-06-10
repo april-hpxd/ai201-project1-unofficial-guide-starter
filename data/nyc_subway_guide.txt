@@ -1,0 +1,51 @@
+NYC Subway Survival Guide for Students
+Source: Compiled from r/nyc, r/AskNYC, and student forums at CUNY and NYU
+
+## Getting Started
+
+The NYC subway runs 24/7, which is one of its best features. However, the system is enormous with 472 stations and 27 lines, so first-timers often feel overwhelmed. The most important thing to know is that the letter/number of the train matters — the A train and the C train share the same tracks but have different stops. Always check the full line name, not just the direction.
+
+## MetroCard vs OMNY
+
+As of 2024, the MTA is transitioning from MetroCards to OMNY (the tap-to-pay system). OMNY accepts contactless credit/debit cards and Apple Pay/Google Pay. You get a free transfer within 2 hours of your first tap. If you ride 12 times in a week, the 13th through 7th rides in that 7-day period are free — this is called the weekly bonus cap and replaces the old 7-day unlimited MetroCard.
+
+Students should note: the reduced fare MetroCard gives half-price rides to eligible students. You must apply through your school. The current reduced fare is $1.45 per ride (half of the $2.90 base fare as of 2024).
+
+## Express vs Local Trains
+
+This is where new riders get confused. Express trains (usually marked with a diamond or bold letter) skip many stops. If you need a stop that only locals serve, you must take the local. For example, the 2 and 3 trains are express on the IRT Seventh Avenue Line, while the 1 train is the local. If you're going from 72nd Street to 96th Street on the Upper West Side, the 1 local stops at both. The 2/3 express skips 72nd to go straight to 96th.
+
+## Best Times to Avoid Crowds
+
+Rush hour is brutal: 7-9am and 5-7pm on weekdays. Trains are packed beyond comfort, especially on the 4/5/6 line (Lexington Avenue) and the L train (14th Street/Canarsie). If your class schedule is flexible, shifting your commute by even 30 minutes makes a huge difference. Midday and late evenings are much more comfortable.
+
+On weekends, expect service changes. The MTA frequently does weekend maintenance work, rerouting trains or suspending service between certain stations. Always check the MTA website or the Citymapper app before weekend travel.
+
+## Apps You Need
+
+1. Citymapper — best real-time routing, shows delays and service changes
+2. MTA Subway Time — official real-time arrival data
+3. Transit App — clean interface, good for multimodal trips
+4. Google Maps — reliable for routing but sometimes slow to reflect service changes
+
+## Safety Tips
+
+Statistically, the NYC subway is quite safe. But commonsense practices help: keep your phone in your pocket on the platform, stand back from the platform edge, and be aware of your surroundings late at night. If a car is inexplicably empty on a crowded train, there's usually a reason (smell, broken AC in summer) — move to a different car.
+
+Emergency intercoms are available in every car. The NYPD has transit officers patrolling the system regularly.
+
+## Common Rookie Mistakes
+
+- Swiping a MetroCard too fast or too slow: a smooth, consistent swipe at medium speed works best
+- Standing in the doorway: you will get dirty looks and people will push past you
+- Trying to board before people exit: always let passengers off first
+- Not checking for weekend service changes: many students get stranded this way
+- Taking the wrong direction: always check the destination shown on the front/side of the train before boarding
+
+## The L Train Situation
+
+The L train serves Williamsburg and Bushwick, two neighborhoods popular with NYU, Pratt, and other student populations. The L can be extremely crowded during peak hours. The First Avenue stop especially backs up badly. If you live in Williamsburg and commute to Manhattan, budget extra time in the morning rush.
+
+## Transfers and Connections
+
+Free transfers between subway lines are allowed at stations where lines share a fare gate area. If you exit the system, you pay again. The bus-to-subway free transfer also applies: swipe/tap on a bus and you can enter the subway within 2 hours for free (and vice versa). This is useful when the subway stop is inconveniently far from your destination and a bus covers the last mile.
