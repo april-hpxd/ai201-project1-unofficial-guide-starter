@@ -12,9 +12,12 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# ChromaDB local storage
+# ChromaDB local storage — regenerate with build_database.py
 chroma_db/
 chroma/
 
 # macOS
 .DS_Store
+
+# Model cache (large files)
+.cache/
